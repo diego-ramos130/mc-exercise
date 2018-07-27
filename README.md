@@ -18,3 +18,7 @@ Alice and Bob start new a feature while they are in the master branch. Meanwhile
 They should have pulled after they committed to master then afterwards they should have created separate branches and created a pull request for those branches. 
 
 -Reed 
+
+Bob and Carol didnt pull from b- master after the pull requests were merged. Ted has an updated branch and Bobs is not but they are both trying to send a pull request... MERGE CONFLICT. Alice starts a feature in the master branch and carol also starts a new feature in the master branch causing a new merge conflict. They should have all pulled from the master to sync up and then formed new individual branches prior to adding their new features.
+
+-Jason
